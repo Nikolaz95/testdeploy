@@ -43,6 +43,7 @@ const Home = () => {
                                 <button>See More</button>
                                 <button>Disi1</button>
                                 <button>See More2</button>
+                                <button>See More3</button>
                             </div>
                         )}
                     </div>
