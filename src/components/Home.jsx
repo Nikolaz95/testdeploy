@@ -41,6 +41,8 @@ const Home = () => {
                                 <div className="name">{slide.name}</div>
                                 <div className="des">{slide.description}</div>
                                 <button>See More</button>
+                                <button>Disi1</button>
+                                <button>See More2</button>
                             </div>
                         )}
                     </div>
